@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on **Crime Management & Reporting System**
 
+- 🔭 I’m currently Learning  **CSS Tailwind, Node js, Nextjs, Nestjs, and PostgreSQL**
+  
 - 💬 Ask me about **C++,Java,C#,Python, html, php, json**
 
 - 📫 How to reach me **hussainrayied9@gmail.com**
