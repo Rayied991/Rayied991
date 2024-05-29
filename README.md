@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rayied991" alt="Rayied991" /></a> </p>
 
-<a href="mailto:hussainrayied9@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-hussainrayied9@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="mailto:hussainrayied9@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rayiedhussain8@gmail.com-red?style=flat&logo=gmail"></a>
 
 - 🔭 I’m currently working on **N/A**
 
