@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **N/A**
 
-- 🔭 I’m currently Learning  **CSS Tailwind, Node js, Nextjs, Nestjs, and PostgreSQL**
+- 🔭 I’m currently Learning  **CSS Tailwind, Node js, ReactJS,Nextjs, Nestjs, and PostgreSQL**
   
-- 💬 Ask me about **C++,Java,C#,Python, html, php, json,Javascript,Reactjs,Nextjs,expressjs,nextjs**
+- 💬 Ask me about **C++,Python, json,Javascript,TypeScript,Reactjs,Nextjs,expressjs,nextjs**
 
 - 📫 How to reach me **rayiedhussain8@gmail.com**
 
