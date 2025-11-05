@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **N/A**
 
-- 🔭 I’m currently Learning  **CSS Tailwind, Node js, ReactJS,Nextjs, Nestjs, and PostgreSQL**
+- 🔭 I’m currently Learning  **Golang**
   
 - 💬 Ask me about **C++,Python, json,Javascript,TypeScript,Reactjs,Nextjs,expressjs,nextjs**
 
