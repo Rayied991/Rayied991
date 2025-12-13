@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ***Web Development Projects***
-- 🌱 I’m currently learning ***ReactJS***
+- 🌱 I’m currently learning ***Tanstack Query /React Query***
 - 👯 I’m looking to collaborate on ***Web Development Projects***
 - 💬 Ask me about ***Web Development***
 - 📫 How to reach me: ***rayiedhussain8@gmail.com***
