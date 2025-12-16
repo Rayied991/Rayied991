@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on ***Privacy Focused Software & trying to implement OCR***
 - 🌱 I’m currently learning ***Tanstack Query /React Query***
 - 👯 I’m looking to collaborate on ***Web Development Projects***
-- 💬 Ask me about ***Web Development***
+- 💬 Ask me about ***Web Development:Frontend***
 - 📫 How to reach me: ***rayiedhussain8@gmail.com***
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ***I Love Code***
