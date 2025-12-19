@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on ***Privacy Focused Software & trying to implement OCR***
+- 🔭 I’m currently working on ***Privacy Focused Software***
 - 🌱 I’m currently learning ***Tanstack Query /React Query***
 - 👯 I’m looking to collaborate on ***Web Development Projects***
 - 💬 Ask me about ***Web Development:Frontend***
