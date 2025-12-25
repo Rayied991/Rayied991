@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on ***LMS System***
+- 🔭 I’m currently working on ***LMS System with Vitest framework***
 - 🌱 I’m currently learning ***Tanstack Query /React Query***
 - 👯 I’m looking to collaborate on ***Web Development Projects***
 - 💬 Ask me about ***Web Development:Frontend***
