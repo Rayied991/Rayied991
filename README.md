@@ -56,3 +56,6 @@ products that exceed expectations.
 [![](https://visitcount.itsvg.in/api?id=Rayied991&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Rayied991&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
