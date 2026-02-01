@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ***LMS System with Vitest framework***
-- 🌱 I’m currently learning ***Tanstack Query /React Query***
+- 🌱 I’m currently learning ***NextJS***
 - 👯 I’m looking to collaborate on ***Web Development Projects***
 - 💬 Ask me about ***Web Development:Frontend***
 - 📫 How to reach me: ***rayiedhussain8@gmail.com***
