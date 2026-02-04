@@ -62,6 +62,15 @@ products that exceed expectations.
   <img src="https://yourinsights.vercel.app/api/insight?username=Rayied991&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
 
+## 🎯 Core Competencies
+
+- ⚛️ Modern React Development (Hooks, Context, Custom Hooks)
+- 🎨 Responsive UI/UX Design with TailwindCSS
+- 🔄 State Management (Redux Toolkit, React Query)
+- 🧪 Test-Driven Development with Vitest
+- 🚀 Performance Optimization & Best Practices
+- 🔥 Firebase Integration & Real-time Features
+
 ## 📫 Let's Connect!
 
 I'm always interested in connecting with fellow developers, discussing new projects, or exploring collaboration opportunities. Feel free to reach out!
