@@ -61,3 +61,13 @@ products that exceed expectations.
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=Rayied991&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
+
+## 📫 Let's Connect!
+
+I'm always interested in connecting with fellow developers, discussing new projects, or exploring collaboration opportunities. Feel free to reach out!
+
+- 📧 Email: [rayiedhussain8@gmail.com](mailto:rayiedhussain8@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/rayied](https://www.linkedin.com/in/rayied/)
+- 🌐 Portfolio: [my-react-portfolio-jade.vercel.app](https://my-react-portfolio-jade.vercel.app)
+
+---
