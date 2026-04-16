@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on ***LMS System with Vitest framework***
+- 🔭 I’m currently working on ***Community Management Platform***
 - 🌱 I’m currently learning ***NextJS***
 - 👯 I’m looking to collaborate on ***Web Development Projects***
 - 💬 Ask me about ***Web Development:(Frontend)***
