@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ***Community Management Platform***
-- 🌱 I’m currently learning ***NextJS***
+- 🌱 I’m currently learning ***FASTAPI***
 - 👯 I’m looking to collaborate on ***Web Development Projects***
 - 💬 Ask me about ***Web Development:(Frontend)***
 - 📫 How to reach me: ***rayiedhussain8@gmail.com***
