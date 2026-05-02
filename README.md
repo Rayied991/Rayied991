@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on ***Community Management Platform***
+- 🔭 I’m currently working on ***LMS***
 - 🌱 I’m currently learning ***FASTAPI***
 - 👯 I’m looking to collaborate on ***Web Development Projects***
 - 💬 Ask me about ***Web Development:(Frontend)***
