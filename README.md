@@ -72,6 +72,7 @@ products that exceed expectations.
 - 🧪 Test-Driven Development with Vitest
 - 🚀 Performance Optimization & Best Practices
 - 🔥 Firebase Integration & Real-time Features
+- Clerk Authentication System
 
 ## 📫 Let's Connect!
 
