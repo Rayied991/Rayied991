@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ***LMS System***
-- 🌱 I’m currently learning ***FASTAPI***
+- 🌱 I’m currently learning ***FASTAPI-Intro***
 - 👯 I’m looking to collaborate on ***Web Development Projects***
 - 💬 Ask me about ***Web Development:(Frontend)***
 - 📫 How to reach me: ***rayiedhussain8@gmail.com***
