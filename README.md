@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on ***LMS System***
+- 🔭 I’m currently working on ***AI Powered Maternal Intelligence System***
 - 🌱 I’m currently learning ***FASTAPI-Intro***
 - 👯 I’m looking to collaborate on ***Web Development Projects***
 - 💬 Ask me about ***Web Development:(Frontend)***
